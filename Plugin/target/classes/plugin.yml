@@ -1,0 +1,9 @@
+name: permadeath
+version: "1.0-SNAPSHOT"
+main: org.mxtrco.permadeath.Main
+api-version: "1.21"
+commands:
+  permadeath:
+    description: Activa las distintas dificultades.
+    usage: /permadeath
+
